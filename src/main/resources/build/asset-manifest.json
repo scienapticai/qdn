@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b538240d.chunk.css",
+    "main.js": "./static/js/main.ed246d5d.chunk.js",
+    "main.js.map": "./static/js/main.ed246d5d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.21f9dca9.js",
+    "runtime-main.js.map": "./static/js/runtime-main.21f9dca9.js.map",
+    "static/css/2.015dc0ab.chunk.css": "./static/css/2.015dc0ab.chunk.css",
+    "static/js/2.05dccd0c.chunk.js": "./static/js/2.05dccd0c.chunk.js",
+    "static/js/2.05dccd0c.chunk.js.map": "./static/js/2.05dccd0c.chunk.js.map",
+    "static/js/3.4f1310ee.chunk.js": "./static/js/3.4f1310ee.chunk.js",
+    "static/js/3.4f1310ee.chunk.js.map": "./static/js/3.4f1310ee.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.015dc0ab.chunk.css.map": "./static/css/2.015dc0ab.chunk.css.map",
+    "static/css/main.b538240d.chunk.css.map": "./static/css/main.b538240d.chunk.css.map",
+    "static/js/2.05dccd0c.chunk.js.LICENSE.txt": "./static/js/2.05dccd0c.chunk.js.LICENSE.txt",
+    "static/media/Hp.cc54abd6.png": "./static/media/Hp.cc54abd6.png",
+    "static/media/index.css": "./static/media/hpsimplified_lt-webfont.e46b8675.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21f9dca9.js",
+    "static/css/2.015dc0ab.chunk.css",
+    "static/js/2.05dccd0c.chunk.js",
+    "static/css/main.b538240d.chunk.css",
+    "static/js/main.ed246d5d.chunk.js"
+  ]
+}
